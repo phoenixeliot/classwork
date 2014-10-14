@@ -1,0 +1,18 @@
+{ } curly braces
+[ ] square braces or brackets
+( ) parens
+< > angle bracket
+\ back slash 
+/ forward slash
+! bang
+* splat
+& ampersand
+| pipe
+# pound, hash, octothorp, sharp
+^ karat
+~ tilde
+` back tick
+' apostrophe, single quote
+<=> space ship
+-> (args){} stabby lambda
+=> arrow? maybe?
